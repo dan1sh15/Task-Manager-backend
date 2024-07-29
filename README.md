@@ -16,10 +16,3 @@ This is the backend API for the Task Manager application. The API allows users t
 ### User Authentication
 - **Sign Up**: Create a new user account.
 - **Log In**: Authenticate an existing user and obtain a token for further requests.
-
-## Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone [https://github.com/yourusername/task-manager-backend.git](https://github.com/dan1sh15/Task-Manager-backend)
