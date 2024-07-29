@@ -22,4 +22,4 @@ This is the backend API for the Task Manager application. The API allows users t
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/task-manager-backend.git
+   git clone [https://github.com/yourusername/task-manager-backend.git](https://github.com/dan1sh15/Task-Manager-backend)
